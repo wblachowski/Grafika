@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Tex_0076_1_dds
+Ns 94.117647
+Ka 0.150000 0.150000 0.150000
+Kd 1.000000 1.000000 0.980000
+Ks 0.580000 0.580000 0.580000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.000000
+illum 2
+map_Kd camo.png
